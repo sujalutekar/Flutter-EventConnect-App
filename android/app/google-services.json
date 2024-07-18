@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390805900675",
+    "project_id": "event-connect-c9ee2",
+    "storage_bucket": "event-connect-c9ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390805900675:android:b7e6946ef4cb734f257ab6",
+        "android_client_info": {
+          "package_name": "com.example.event_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJXEO6sdVj2q7Eav3j6ogk8NmUdC0DPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
